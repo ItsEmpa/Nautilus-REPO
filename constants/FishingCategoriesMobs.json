@@ -1,0 +1,126 @@
+{
+  "categories": {
+    "CI_FISH": {
+      "mobs": [
+        "Magma Slug",
+        "Moogma",
+        "Lava Leech",
+        "Pyroclastic Worm",
+        "Lava Flame",
+        "Fire Eel",
+        "Taurus",
+        "Plhlegblast",
+        "Thunder",
+        "Lord Jawbus"
+      ]
+    },
+    "CI_HOTSPOT": {
+      "mobs": [
+        "Fried Chicken",
+        "Fireproof Witch",
+        "Fiery Scuttler",
+        "Ragnarok"
+      ]
+    },
+    "MAGMA_CORE": {
+      "mobs": [
+        "Lava Blaze",
+        "Lava Pigman"
+      ]
+    },
+    "CH_LAVA_WORMS": {
+      "mobs": [
+        "Flaming Worm"
+      ]
+    },
+    "WATER": {
+      "mobs": [
+        "Sea Walker",
+        "Squid",
+        "Night Squid",
+        "Sea Guardian",
+        "Sea Witch",
+        "Sea Archer",
+        "Rider of the Deep",
+        "Catfish",
+        "Carrot King",
+        "Agarimoo",
+        "Sea Leech",
+        "Guardian Defender",
+        "Deep Sea Protector",
+        "Water Hydra",
+        "The Sea Emperor"
+      ]
+    },
+    "CH_WATER_WORM": {
+      "mobs": [
+        "Water Worm",
+        "Poisoned Water Worm"
+      ]
+    },
+    "ABYSSAL_MINES": {
+      "mobs": [
+        "Abyssal Miner"
+      ]
+    },
+    "DW_WATER_GRUBBERS": {
+      "mobs": [
+        "Bloated Mithril Grubber",
+        "Large Mithril Grubber",
+        "Medium Mithril Grubber",
+        "Mithril Grubber"
+      ]
+    },
+    "OASIS": {
+      "mobs": [
+        "Oasis Rabbit",
+        "Oasis Sheep"
+      ]
+    },
+    "BAYOU": {
+      "mobs": [
+        "Dumpster Diver",
+        "Trash Gobbler",
+        "Banshee",
+        "Bayou Sludge",
+        "Alligator",
+        "Titanoboa"
+      ]
+    },
+    "WATER_HOTSPOT": {
+      "mobs": [
+        "Frog Man",
+        "Snapping Turtle",
+        "Blue Ringed",
+        "Wiki Tiki"
+      ]
+    },
+    "SPOOKY": {
+      "mobs": [
+        "Scarecrow",
+        "Nightmare",
+        "Werewolf",
+        "Phantom Fisher",
+        "Grim Reaper"
+      ]
+    },
+    "JERRY": {
+      "mobs": [
+        "Frozen Steve",
+        "Frosty",
+        "Grinch",
+        "Yeti",
+        "Nutcracker",
+        "Reindrake"
+      ]
+    },
+    "FISHING_FESTIVAL": {
+      "mobs": [
+        "Nurse Shark",
+        "Blue Shark",
+        "Tiger Shark",
+        "Great White Shark"
+      ]
+    }
+  }
+}
